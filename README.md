@@ -26,4 +26,6 @@
 
 ![image](https://github.com/txkxdx/bedaPolnaya/assets/156675683/9243e2d3-f8e7-4076-b303-44f403a95250)
 
+## profile and buy history with homepage
 
+<img width="312" alt="Снимок экрана 2024-04-09 в 10 42 43" src="https://github.com/bufetovanastya/PolnayaBeda/assets/156680083/6048224e-5523-4240-be61-33bcc1994d19">
